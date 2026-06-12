@@ -1,1 +1,23 @@
+日本-地面台,#genre#
+NHK G,http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+NHK E,http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+NTV,http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+TV Asahi,http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+TBS,http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+TV Tokyo,http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+Fuji TV,http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+Tokyo MX1,http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+Tokyo MX2,http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+
+日本-BS卫星,#genre#
+NHK BS,http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+BS Nippon TV,http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+BS Asahi,http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+BS TBS,http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+BS TV Tokyo,http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+BS Fuji,http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+
+日本-其他,#genre#
+Shop Channel,http://akariko.netgenx.site/stream/jp/shop_channel/stream-output.m3u8?mode=hls
+QVC,http://akariko.netgenx.site/stream/jp/qvc/stream-output.m3u8?mode=hls
 
